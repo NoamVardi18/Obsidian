@@ -1,17 +1,21 @@
 ---
-created: 2026-06-03
-category: "[[Books]]"
-rating: 7
-people:
+categories:
+  - "[[Books]]"
+author:
   - "[[Stephen Covey]]"
+genre:
+  - "[[פיתוח עצמי]]"
+year: 1989
+rating: 7
 topics:
   - "[[הרגלים]]"
   - "[[אפקטיביות]]"
   - "[[מערכות יחסים]]"
   - "[[פיתוח עצמי]]"
+created: 2026-06-03
+tags:
+  - read
 ---
-
-# 7 Habits of Highly Effective People — Stephen Covey
 
 ניצחון פרטי קודם לניצחון ציבורי. קודם בונים את עצמך, אחר כך מתמודדים עם אחרים.
 

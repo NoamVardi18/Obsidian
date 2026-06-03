@@ -1,9 +1,18 @@
 ---
-created: 2026-06-03
-category: "[[Books]]"
+categories:
+  - "[[Books]]"
+author:
+  - "[[Charles Duhigg]]"
+genre:
+  - "[[פיתוח עצמי]]"
+year: 2012
+rating: 6
 topics:
   - "[[הרגלים]]"
   - "[[פיתוח עצמי]]"
+created: 2026-06-03
+tags:
+  - read
 ---
 ספר של Charles Duhigg על מנגנון ההרגל: רמז → רוטינה → פרס. המחזור הזה ניתן לשינוי. ספר מעשי שאהבתי.
 
