@@ -7,4 +7,5 @@ org:
 loc:
 people: []
 topics: []
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
