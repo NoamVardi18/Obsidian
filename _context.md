@@ -1,3 +1,19 @@
+## 2026-06-03 (session 2 — schema fix)
+
+תוקן ה-frontmatter של כל הפתקים שיצרתי כך שיתאים לתבניות kepano וה-Bases יזהו אותם:
+- `category` (יחיד) → `categories` (רשימה) — זה מה שכל ה-Bases מתשאלים
+- פתקי **Evergreen** → `tags: [0🌲]` (זה התנאי היחיד ב-Evergreen.base), הוסר category
+- **Books** (7 Habits, Deep Work, Can't Hurt Me, Power of Habit) → `author`/`genre`/`year`/`rating`/`tags: read`
+- **Trips** (אירופה, ארה"ב) → `start`/`end`/`loc`
+- **Projects** → `type`/`status`/`year`
+- **Authors** (Goggins, Covey, Newport, Duhigg) → `categories: [[People]]` + `type: [[Authors]]`
+- נוצר stub `References/Charles Duhigg.md`
+- נמחק artifact `inbox.md_`
+
+עכשיו כל פתק מופיע ב-Base המתאים: Books, Projects, Trips, People, Evergreen.
+
+---
+
 ## 2026-06-03
 
 ### Created

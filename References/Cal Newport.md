@@ -1,6 +1,9 @@
 ---
+categories:
+  - "[[People]]"
+type:
+  - "[[Authors]]"
 created: 2026-06-03
-category: "[[People]]"
 topics:
   - "[[פרודוקטיביות]]"
   - "[[למידה]]"

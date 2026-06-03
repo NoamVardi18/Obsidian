@@ -1,17 +1,21 @@
 ---
-created: 2026-06-03
-category: "[[Books]]"
-rating: 7
-people:
+categories:
+  - "[[Books]]"
+author:
   - "[[Cal Newport]]"
+genre:
+  - "[[פרודוקטיביות]]"
+year: 2016
+rating: 7
 topics:
   - "[[עבודה עמוקה]]"
   - "[[פרודוקטיביות]]"
   - "[[פוקוס]]"
   - "[[יצירה]]"
+created: 2026-06-03
+tags:
+  - read
 ---
-
-# Deep Work — Cal Newport
 
 עבודה עמוקה היא עבודה ממוקדת ובלתי מופרעת שדורשת מאמץ קוגניטיבי גבוה. היא הופכת נדירה יותר — וגם יקרה יותר.
 

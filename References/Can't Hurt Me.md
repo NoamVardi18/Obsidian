@@ -1,10 +1,19 @@
 ---
-created: 2026-06-03
-category: "[[Books]]"
+categories:
+  - "[[Books]]"
+author:
+  - "[[David Goggins]]"
+genre:
+  - "[[פיתוח עצמי]]"
+year: 2018
+rating: 7
 topics:
   - "[[פיתוח עצמי]]"
   - "[[ביטחון עצמי]]"
   - "[[ריצה]]"
+created: 2026-06-03
+tags:
+  - read
 ---
 ספר של [[David Goggins]] על קיבולת נפשית, צמיחה מתוך קושי, ועשיית הדברים שהכי קשה לעשות. חיבור אישי עמוק.
 
