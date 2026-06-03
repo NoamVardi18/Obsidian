@@ -12,4 +12,5 @@ url:
 rating: 
 published: 
 last: <% tp.date.now("YYYY-MM-DD") %>
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---

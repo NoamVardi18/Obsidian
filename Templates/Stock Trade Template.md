@@ -6,4 +6,5 @@ tags:
   - trade
 price: 
 shares:
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
