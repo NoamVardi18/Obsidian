@@ -1,4 +1,9 @@
-# Obsidian Vault
+---
+tags:
+---
+## Notes
+
+![[Daily.base]]# Obsidian Vault
 
 A personal knowledge base for iPhone, built on [Steph Ango's kepano-obsidian vault](https://github.com/kepano/kepano-obsidian) and synced via Git — no PC required.
 
