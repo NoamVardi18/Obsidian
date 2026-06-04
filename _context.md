@@ -54,7 +54,7 @@
 
 ### Edited
 
-- `Templates/Daily Note Template.md` — נוסף `created: <% tp.date.now("YYYY-MM-DD") %>`
+- `Templates/Daily Note Template.md` — נוסף `created: 2026-06-04`
 - כל 31 תבניות בלי `created` — נוסף bulk
 - כל 28 תבניות עם `{{date}}` — הומר ל-Templater syntax
 
