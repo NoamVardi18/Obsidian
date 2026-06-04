@@ -9,3 +9,7 @@ topics:
   - "[[ריצה]]"
 ---
 David Goggins — Navy SEAL, רץ אולטרה-מרתון, מחבר [[Can't Hurt Me]]. ידוע בגישה של "קיבולת נפשית" — לעשות את הדברים הקשים ביותר כשהכי קשה.
+
+## Books
+
+![[Books.base#Author]]
