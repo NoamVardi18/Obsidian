@@ -59,13 +59,20 @@ Each note has a **properties block** (YAML frontmatter) at the top. This is wher
 
 ```yaml
 ---
-created: 2024-03-15
-category: "[[Books]]"
-author: "[[Cormac McCarthy]]"
+categories:
+  - "[[Books]]"
+author:
+  - "[[Cormac McCarthy]]"
+genre:
+  - "[[Western]]"
+year: 1985
 rating: 6
 topics:
   - "[[Violence]]"
   - "[[American Southwest]]"
+created: 2024-03-15
+tags:
+  - read
 ---
 ```
 
@@ -74,10 +81,12 @@ topics:
 | Property | What it does |
 |----------|-------------|
 | `created` | Date the note was created (filled automatically by Templater) |
-| `category` | Links this note to a category index, e.g. `[[Books]]` |
+| `categories` | Links this note to a category index (a **list**), e.g. `[[Books]]`. This is what the Bases filter on |
 | `rating` | A number 1–7 (or 1–5, your choice) for things you want to rate |
-| `people` | Links to person notes, e.g. `[[Kevin Kelly]]` |
+| `author` | Links to the author/person note, e.g. `[[Cormac McCarthy]]` |
 | `topics` | Links to concept notes, tags as wiki-links |
+
+> ⚠️ The field is `categories` (plural, a list) — **not** `category`. The Bases query `categories`, so a note with the wrong field name won't show up in any table.
 
 Using `[[wiki-links]]` in properties means Obsidian builds a graph of connections automatically. Click any linked name and you jump to that note.
 
@@ -93,7 +102,7 @@ Using `[[wiki-links]]` in properties means Obsidian builds a graph of connection
 
 When Obsidian renders this, it becomes a sortable, filterable table of all your book notes — their titles, ratings, authors, dates — without you doing anything. The `.base` files in `Templates/Bases/` define the columns and filters for each table.
 
-Open `Categories/Books.md` to see an example: it embeds `![[Books.base]]`, which pulls in every note where `category: "[[Books]]"`.
+Open `Categories/Books.md` to see an example: it embeds `![[Books.base]]`, which pulls in every note where `categories` contains `[[Books]]`.
 
 ---
 
