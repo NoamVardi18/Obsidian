@@ -75,21 +75,104 @@ Ask yourself: **whose thinking is this primarily?**
 
 ## Properties (Frontmatter)
 
-Include only what's relevant. Never add empty fields.
+Use the kepano template schema — this is what the Bases query. Include only relevant fields. **Never add empty fields.**
+
+The field is `categories` (plural list), never `category` (singular string).
+
+### Books / Movies / Shows / Albums / Podcasts
+
+```yaml
+---
+categories:
+  - "[[Books]]"
+author:
+  - "[[Author Name]]"
+genre:
+  - "[[Genre]]"
+year: 2024
+rating: 7
+topics:
+  - "[[Topic]]"
+created: YYYY-MM-DD
+tags:
+  - read
+---
+```
+
+### Evergreen notes (atomic ideas in `Notes/`)
+
+No `categories` field. Just the tag — that's the only thing `Evergreen.base` filters on.
 
 ```yaml
 ---
 created: YYYY-MM-DD
-category: "[[CategoryName]]"
-rating: 6                      # 1–7, only for things you can rate
-people:
-  - "[[Person Name]]"
+topics:
+  - "[[Topic]]"
+tags:
+  - 0🌲
+---
+```
+
+### Projects
+
+```yaml
+---
+categories:
+  - "[[Projects]]"
+type:
+  - "[[מערכת]]"
+status: פעיל
+year: 2026
+created: YYYY-MM-DD
 topics:
   - "[[Topic]]"
 ---
 ```
 
-**Category options:** `[[Books]]` `[[Movies]]` `[[Shows]]` `[[Albums]]` `[[Podcasts]]` `[[Podcast episodes]]` `[[Games]]` `[[Board games]]` `[[People]]` `[[Places]]` `[[Companies]]` `[[Products]]` `[[Recipes]]` `[[Posts]]` `[[Projects]]` `[[Events]]` `[[Trips]]` `[[Meetings]]` `[[Journal]]` `[[Clippings]]` `[[Evergreen]]`
+### Trips
+
+```yaml
+---
+categories:
+  - "[[Trips]]"
+start: YYYY-MM-DD
+end: YYYY-MM-DD
+loc:
+  - "[[Place]]"
+created: YYYY-MM-DD
+---
+```
+
+### People / Authors
+
+```yaml
+---
+categories:
+  - "[[People]]"
+type:
+  - "[[Authors]]"
+created: YYYY-MM-DD
+---
+
+## Books
+
+![[Books.base#Author]]
+```
+
+### Companies / Places
+
+```yaml
+---
+categories:
+  - "[[Companies]]"
+type:
+  - "[[Type]]"
+url: https://...
+created: YYYY-MM-DD
+---
+```
+
+**`categories` options:** `[[Books]]` `[[Movies]]` `[[Shows]]` `[[Albums]]` `[[Podcasts]]` `[[Podcast episodes]]` `[[Games]]` `[[Board games]]` `[[People]]` `[[Places]]` `[[Companies]]` `[[Products]]` `[[Recipes]]` `[[Posts]]` `[[Projects]]` `[[Events]]` `[[Trips]]` `[[Meetings]]` `[[Journal]]` `[[Clippings]]`
 
 ---
 
@@ -122,8 +205,9 @@ This vault lives and dies by connections.
 **Stub format:**
 ```markdown
 ---
+categories:
+  - "[[People]]"
 created: YYYY-MM-DD
-category: "[[People]]"
 ---
 [Name] — add more when there's more to say.
 ```
