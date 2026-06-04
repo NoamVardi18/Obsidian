@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Evergreen.md",
+                "file": "אלבניה.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evergreen"
+              "title": "אלבניה"
             }
           },
           {
@@ -110,16 +110,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes dump.md",
+                "file": "Wispr Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes dump"
+              "title": "Wispr Flow"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,13 +279,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b247231265bb3e6",
+  "active": "32e1cb6d440243c4",
   "lastOpenFiles": [
-    "Templates/Bases/Backlinks.base",
+    "References/Steph Ango.md",
+    "References/מלחמת האמנות.md",
+    "Notes/קיזוז הפסדי מס בישראל — אין כלל wash sale על קריפטו.md",
+    "Notes/ריצה — רוטציה ויעדים.md",
+    "References/Stephen Covey.md",
+    "Notes/Evergreen notes turn ideas into objects that you can manipulate.md",
     "Notes dump.md",
+    "Categories/Evergreen.md",
+    "Wispr Flow.md",
+    "Templates/Bases/Backlinks.base",
     "Notes dumps into md’s",
     "Templates/Bases/Board games.base",
-    "Wispr Flow.md",
     "פיטנס.md",
     "Notes/דחיית סיפוקים באימון ובכסף היא אותה מיומנות.md",
     "פיתוח עצמי.md",
@@ -295,7 +302,6 @@
     "Notes/מה שפרספילד קורא מלאכים הוא התת-מודע שעובד גם בלי שאתה מרגיש.md",
     "מילה טובה לבן אדם עוזרת.md",
     "Notes/משמעות.md",
-    "References/מלחמת האמנות.md",
     "/References/מלחמת האמנות.md",
     "/References/Steven Pressfield.md",
     "References/Steven Pressfield.md",
@@ -306,11 +312,6 @@
     "Notes/Resistance — הכוח הפנימי שמונע ממך לעשות את העבודה.md",
     "/Notes",
     "אדם מחפש משמעות.md",
-    "Notes/MSTR — הפסד לא ממומש ואסטרטגיית tax loss harvesting.md",
-    "Templates/App Template.md",
-    "Templates/Clipping Template.md",
-    "Notes/ה-Stack שלי — כלים וטכנולוגיה.md",
-    "Notes/פרויקט לקוח חנות פרחים.md",
     "Templates/Bases/Journal.base",
     "inbox.md_",
     "/inbox.md_",
