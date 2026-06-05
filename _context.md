@@ -1,3 +1,19 @@
+## 2026-06-05 (session 5 — full schema audit)
+
+### Edited
+- `Notes/פרויקט לקוח חנות פרחים.md` — resolved git merge conflict (removed HEAD/main markers), removed empty `url:` field
+- `Notes/מודל לעזור בחינם ואז לבקש הפניות בונה אמון שמייצר לקוחות משלמים.md` — added `tags: 0🌲` (was evergreen idea without tag)
+- `Notes/סגירת מכירה מתחילה בלגרום ללקוח להעמיק בבעיה שלו ולקחת עליה אחריות.md` — added `tags: 0🌲`
+- `Notes/עדיף ליצור מאשר לצרוך.md` — added `tags: 0🌲`
+- `Notes/אפקטיביות.md`, `בינה מלאכותית.md`, `יעדים.md`, `משמעות.md`, `קישורים.md`, `ריצה.md`, `פיתוח עצמי.md` — changed `tags: 0🌲` → `tags: index` (these are hub/index pages, not evergreen ideas)
+- `References/אדם מחפש משמעות.md` — added `year: 1946`
+- `References/ברוקלין 99.md` — added `year: 2013`
+- `References/תורת המשחקים.md` — added `genre: [[אסטרטגיה]]`
+- `References/לחשוב מהר, לחשוב לאט.md` — added `rating: 7`
+- `References/סודות הדוט קום.md` — added `year: 2015`, `rating: 7`
+
+---
+
 ## 2026-06-05 (session 4 — weekly template + vault audit)
 
 ### Created
