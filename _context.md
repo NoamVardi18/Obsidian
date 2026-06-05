@@ -1,3 +1,38 @@
+## 2026-06-05 (session 5 — full schema audit)
+
+### Edited
+- `Notes/פרויקט לקוח חנות פרחים.md` — resolved git merge conflict (removed HEAD/main markers), removed empty `url:` field
+- `Notes/מודל לעזור בחינם ואז לבקש הפניות בונה אמון שמייצר לקוחות משלמים.md` — added `tags: 0🌲` (was evergreen idea without tag)
+- `Notes/סגירת מכירה מתחילה בלגרום ללקוח להעמיק בבעיה שלו ולקחת עליה אחריות.md` — added `tags: 0🌲`
+- `Notes/עדיף ליצור מאשר לצרוך.md` — added `tags: 0🌲`
+- `Notes/אפקטיביות.md`, `בינה מלאכותית.md`, `יעדים.md`, `משמעות.md`, `קישורים.md`, `ריצה.md`, `פיתוח עצמי.md` — changed `tags: 0🌲` → `tags: index` (these are hub/index pages, not evergreen ideas)
+- `References/אדם מחפש משמעות.md` — added `year: 1946`
+- `References/ברוקלין 99.md` — added `year: 2013`
+- `References/תורת המשחקים.md` — added `genre: [[אסטרטגיה]]`
+- `References/לחשוב מהר, לחשוב לאט.md` — added `rating: 7`
+- `References/סודות הדוט קום.md` — added `year: 2015`, `rating: 7`
+
+---
+
+## 2026-06-05 (session 4 — weekly template + vault audit)
+
+### Created
+- `Templates/Weekly Note Template.md` — טבלת מעקב שבועית: אימון, מים, Audible, תובנות, הוצאות, כתיבה יומית, שינה (7 פרמטרים). שמור בתור `YYYY-WNN.md` בתיקיית `Daily/`
+- `Clippings/How I do my to-dos — Steph Ango.md` — קליפינג על שיטת ה-to-do השבועית של Steph Ango, מקושר ל-[[תכנון שבועי עדיף על יומי...]]
+
+### Edited
+- `Notes/למה נכסים משפחתיים לא נשארים בין הדורות.md` — נוסף קישור ל-[[דחיית סיפוקים באימון ובכסף]]
+- `Notes/איך ליצור פתקים.md` — תוקן topics: `Obsidian` → `"[[Obsidian]]"` (wikilink)
+
+### Deleted
+- `Notes/משפחות לא שומרות נכסים בין דורות...md` — כפל של `למה נכסים משפחתיים...`, ללא תג 0🌲, הקישור הייחודי הועבר
+
+### Key links added
+- `Clippings/How I do my to-dos` → `[[Steph Ango]]` + `[[תכנון שבועי...]]`
+- `למה נכסים משפחתיים...` ↔ `[[דחיית סיפוקים באימון ובכסף]]`
+
+---
+
 ## 2026-06-04 (session 3 — phone dump + diary archive)
 
 עיבוד אצווה גדולה שהגיעה מהטלפון, בעזרת פיצול ל-agents מקבילים.
