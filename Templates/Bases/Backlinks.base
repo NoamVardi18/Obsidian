@@ -17,9 +17,8 @@ views:
       - file.name
       - categories
       - created
-    sort:
-      - property: created
-        direction: DESC
+      - מה הוא עושה
+    sort: []
   - type: table
     name: Recent entries
     order:
@@ -29,3 +28,5 @@ views:
       - property: created
         direction: DESC
     limit: 20
+  - type: table
+    name: Skill
