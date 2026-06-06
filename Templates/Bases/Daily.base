@@ -32,8 +32,6 @@ views:
         direction: ASC
       - property: created
         direction: DESC
-      - property: file.name
-        direction: ASC
       - property: categories
         direction: ASC
     columnSize:
