@@ -1,3 +1,21 @@
+## 2026-06-07 (session 6 — trackers + periodic notes automation + dashboard)
+
+### Created
+- `Notes/מעקב משקל.md` — טבלת משקל גדלה (שורה לכל שקילה), `tags: tracker`, מקושר ל-[[פיטנס]]
+- `Notes/מעקב שינה.md` — טבלת שינה: שעות, ציון 1-10, איך הרגשתי, לפני/אחרי, HRV
+- `_home.md` — Dashboard: מעקבים, לולאות פתוחות, Projects/Evergreen/Books bases
+
+### Edited (automation)
+- `Templates/Daily Note Template.md` — בלוק Templater: יוצר אוטומטית Weekly Note (`gggg-[W]ww`) לשבוע הנוכחי אם חסר, ו-Monthly (`YYYY-MM`) בימי ראשון. כותרת ניווט: שבוע + שינה + משקל (וחודש רק בראשון)
+- `Templates/Weekly Note Template.md` — פורמט `week` יושר ל-`gggg-[W]ww` (תואם לקישור מהיומי)
+- `Templates/Monthly Note Template.md` — ניקוי aliases/prev/next מקובעים ישנים
+- `CLAUDE.md` — נוסף `_home.md` לקבצי השורש המותרים + סעיף Trackers
+
+### החלטה
+- מעקבים = טבלה אחת גדלה (לא דף לכל יום). חודשי מופיע ביומי רק פעם בשבוע (ראשון) להפחתת רעש.
+
+---
+
 ## 2026-06-05 (session 5 — full schema audit)
 
 ### Edited
