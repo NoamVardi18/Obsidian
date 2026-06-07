@@ -1,5 +1,5 @@
 ---
-created: 2026-06-04
+created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - 0🌲
 ---
