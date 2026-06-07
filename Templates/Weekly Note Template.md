@@ -1,7 +1,7 @@
 ---
 tags:
   - weekly
-week: <% tp.date.now("YYYY-[W]WW") %>
+week: <% tp.date.now("gggg-[W]ww") %>
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
