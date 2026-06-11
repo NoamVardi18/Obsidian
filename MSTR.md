@@ -1,12 +1,12 @@
 ---
-date: 2026-06-05
+date: 2026-06-08
 trade: MSTR
 tags:
   - investment
   - trade
 price: 128.55
 shares: 3
-created: 2026-06-05
+created: 2026-06-08
 ---
 ![[IMG_8311.png]]
 
