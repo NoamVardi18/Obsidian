@@ -1,3 +1,18 @@
+## 2026-06-13 (session 7 — global skills + note capture)
+
+### Created
+- `Notes/השאלה היחידה שקובעת אם מוצר שווה השקעה היא האם זרים צריכים אותו.md` — evergreen: validation מהשוק לפני המשך השקעה ב-SignalShaulBot
+- `.claude/skills/organize-vault/SKILL.md` — סקיל גלובלי: אודיט/סידור הוולט (frontmatter, מיקום קבצים, קישורים) לפי CLAUDE.md
+- `.claude/skills/vault-capture/SKILL.md` — סקיל גלובלי: לכידת מחשבה/transcript לפתק מסודר + commit+push
+
+### Merged
+- PR #5 → main. התנגשויות ב-`Notes/מעקב משקל.md`, `Notes/מעקב שינה.md`, `_home.md` נפתרו לטובת הנתונים החיים מהטלפון (שורות שינה/משקל שנוספו בינתיים)
+
+### ממתין
+- פתק כפול: גרסה חדשה של [[מה שפרספילד קורא מלאכים הוא התת-מודע שעובד גם בלי שאתה מרגיש]] נשלחה עם 2 קישורים חדשים ([[הקול בראש שמנסה לרמות אותי]], [[לפעול מתוך כבוד עצמי ולא מתוך פחד]]) — לא מוזג עדיין, מחכה לאישור/לפתק הבא
+
+---
+
 ## 2026-06-07 (session 6 — trackers + periodic notes automation + dashboard)
 
 ### Created
