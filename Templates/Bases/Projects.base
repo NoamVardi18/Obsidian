@@ -18,14 +18,15 @@ views:
     name: Table
     order:
       - file.name
-      - type
-      - year
+      - categories
       - status
-      - url
+      - created
     sort:
-      - column: note.status
+      - property: status
         direction: ASC
-      - column: note.year
+      - property: year
+        direction: DESC
+      - property: file.ctime
         direction: DESC
     columnSize:
       file.name: 209
