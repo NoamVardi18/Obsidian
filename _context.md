@@ -1,3 +1,10 @@
+## 2026-06-13 (session 8 — missions for today)
+
+### Edited
+- `Daily/2026-06-13.md` — נוסף סעיף `## משימות להיום` עם 5 משימות (checkboxes). קישורים: [[Skyblock]], [[עוזר אישי מותאם]]
+
+---
+
 ## 2026-06-13 (session 7 — global skills + note capture)
 
 ### Created
