@@ -13,3 +13,5 @@ views:
     order:
       - file.name
       - created
+  - type: table
+    name: Journal
