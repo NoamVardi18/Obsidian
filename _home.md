@@ -7,28 +7,32 @@ created: 2026-06-07
 
 ## בוקר טוב ☀️
 
-```meta-bind-button
-label: 📅 יומן היום
-style: primary
-actions:
-  - type: command
-    command: daily-notes
+```button
+name 📅 יומן היום
+type command
+action Daily notes: Open today's daily note
+color blue
 ```
 
-```meta-bind-button
-label: 🌲 פתק חדש
-style: default
-actions:
-  - type: command
-    command: templater-obsidian:create-new-note-from-template
+```button
+name 🗓️ השבוע
+type note(Daily, false)
+action <% tp.date.now("gggg-[W]ww") %>
+templater true
+template Weekly Note Template
+color green
 ```
 
-```meta-bind-button
-label: 🔄 משיכה (Pull)
-style: default
-actions:
-  - type: command
-    command: obsidian-git:pull
+```button
+name 🌲 פתק חדש
+type command
+action Templater: Create new note from template
+```
+
+```button
+name 🔄 משיכה (Pull)
+type command
+action Obsidian Git: Pull
 ```
 
 ## מעקב יומי

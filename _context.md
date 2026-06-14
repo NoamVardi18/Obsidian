@@ -1,3 +1,15 @@
+## 2026-06-14 (session 10 — weekly note = writing space + home buttons fix)
+
+### Edited
+- `Templates/Weekly Note Template.md` — שוכתב מטבלה-בלבד למרחב כתיבה אמיתי: יעדים, מיקוד, מחשבות/תכנון, טבלת מעקב רזה, סיכום שבוע (מה עבד/לא/להעביר) + callout ניווט
+- `Daily/2026-W25.md` — הומר לפורמט החדש תוך שמירת היעדים שנועם כבר כתב
+- `_home.md` — כפתורי meta-bind היו **שבורים** (פלאגין meta-bind לא מותקן). הוחלפו לתחביר Buttons (פלאגין `buttons` מותקן). נוסף כפתור `🗓️ השבוע` שפותח/יוצר את פתק השבוע הנוכחי (`type note(Daily)` + `templater true`, action=`gggg-[W]ww`)
+
+### הערה
+- מנגנון יצירת השבועי האוטומטי (ב-Daily Note Template) נשאר — שני מסלולי היצירה (אוטומטי + כפתור) משתמשים באותו Weekly Note Template
+
+---
+
 ## 2026-06-14 (session 9 — root inbox cleanup, phone-capture batch)
 
 ### Deleted
