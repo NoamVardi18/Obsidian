@@ -32,7 +32,7 @@ At the END of every session, update `_context.md` with a short log:
 | `Categories/` | Index pages — never touch |
 | `Templates/` | Templates — never touch |
 
-**Mobile capture:** notes Noam writes on his phone land at the **vault root** by default. Treat the root as an inbox — file every loose note into the correct folder and fix its frontmatter. Never leave content notes at the root (only `CLAUDE.md`, `HOW-TO-USE.md`, `README.md`, `_context.md`, `_inbox.md`, `_home.md` belong there).
+**Mobile capture:** notes Noam writes on his phone land at the **vault root** by default. Treat the root as an inbox — file every loose note into the correct folder and fix its frontmatter. Never leave content notes at the root (only `CLAUDE.md`, `HOW-TO-USE.md`, `README.md`, `SETUP-PHONE.md`, `_context.md`, `_inbox.md`, `_home.md` belong there).
 
 **Trackers:** `Notes/מעקב משקל.md` and `Notes/מעקב שינה.md` are single growing tables (one row per entry, newest on top) — append rows, never create new files. `_home.md` is the dashboard. Periodic notes (`Daily/YYYY-Www.md` weekly, `Daily/YYYY-MM.md` monthly) are auto-created by the Daily template via Templater.
 
