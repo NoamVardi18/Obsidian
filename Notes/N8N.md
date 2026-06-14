@@ -3,10 +3,7 @@ categories:
   - "[[Projects]]"
 type:
   - "[[תכנון]]"
-org: []
-start:
 year: 2026
-url:
 status:
   - תכנון
 created: 2026-06-13

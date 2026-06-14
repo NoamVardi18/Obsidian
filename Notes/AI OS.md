@@ -4,10 +4,8 @@ categories:
 type:
   - "[[מערכת]]"
   - "[[תכנון]]"
-org: []
 start: 2026-06-13
 year: 2026
-url:
 status:
   - תכנון
 created: 2026-06-13

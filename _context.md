@@ -1,3 +1,35 @@
+## 2026-06-14 (session 9 — root inbox cleanup, phone-capture batch)
+
+### Deleted
+- `Apps.md`, `Authors.md`, `ללא כותרת.md` — ריקים (cruft)
+- `31.5-6.6 2026 שבוע.md` — תבנית שבועית ריקה בשם פורמט ישן (W-notes נוצרים אוטומטית)
+- `References/Skyblock Investments.md` — מוזג ל-[[Skyblock]]
+
+### Moved → Notes/
+- פרויקטים: `AI OS`, `AI Projects`, `Hermes agent`, `N8N` (ניקוי שדות ריקים org/url/start)
+- פלייבוקים/רעיונות: `Ai Agency`, `Meta ads`, `רעיונות לעסקי Ai`, `יצירת סרטונים עם קלוד`, `אתר לבוט`
+- evergreen: `להיות אדם בלתי רגיל`
+- מסחר: `MSTR`, `Trade amzn`, `מניות`
+- פרויקט: `עוזר אישי מותאם`
+- journal: `כתיבה יוצרת 13.6.2026` (categories [[Journal]], הוסר תג 0🌲)
+
+### Moved → References/
+- `Hyperframes` (תוקן frontmatter שבור — מפתח YAML לא חוקי), `Skyblock`
+
+### Created
+- `References/מוצרי AI לצילום.md` — stub (מקושר מ-[[Hyperframes]])
+
+### Frontmatter fixes
+- `Meta ads`, `יצירת סרטונים עם קלוד` — categories לא חוקי `Skill` → topics + `tags: 0🌲`
+- `Skyblock` — הוסר `tags: categories`
+
+### Key links
+- `Hermes agent` → [[AI OS]]
+- `Ai Agency` → [[רעיונות לעסקי Ai]], [[N8N]], [[Meta ads]]
+- `Hyperframes` ↔ [[מוצרי AI לצילום]]
+
+---
+
 ## 2026-06-13 (session 8 — missions for today)
 
 ### Edited

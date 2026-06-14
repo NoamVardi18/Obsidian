@@ -2,11 +2,12 @@
 categories:
   - "[[Games]]"
 maker: Vardi
-genre:
-year: 2026
-rating:
-last: 2026-06-05
+rating: 7
+created: 2026-06-05
 ---
+Hypixel Skyblock — מעקב השקעות ותקדמות במשחק.
+
+## השקעות
 ![[Pasted image 20260605184054.png]]
 
 ![[Pasted image 20260605184235.png]]
@@ -22,6 +23,3 @@ last: 2026-06-05
 ![[Pasted image 20260605185127.png]]
 
 ![[Pasted image 20260605185221.png]]
-
-thats it
-

@@ -46,3 +46,6 @@ tags:
 Audit, build, support and document
 אם אתה מפספס אחד מהשלבים האלה הלקוח שלך הולך
 
+---
+קשור: [[רעיונות לעסקי Ai]] · [[N8N]] · [[Meta ads]]
+
